@@ -1,4 +1,4 @@
 ARCHIVED
 ========
 
-This repository is unused and unmainted
+This repository is unused and unmaintained
